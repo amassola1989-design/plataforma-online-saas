@@ -1,0 +1,13 @@
+{
+    "plan_id": "empresa",
+    "plan_nombre": "Plan Empresa",
+    "usuario_email": "alexisluyano@gmail.com",
+    "precio_normal": 9000,
+    "precio_pagado": 7650,
+    "ahorro": 1350,
+    "metodo_pago": "transferencia",
+    "fecha_inicio": "2025-09-29",
+    "fecha_vencimiento": "2026-03-29",
+    "estado": "activa",
+    "fecha_compra": "2025-09-29 06:15:17"
+}
